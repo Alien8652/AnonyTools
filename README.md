@@ -15,7 +15,7 @@ Alguns métodos/truques para renovar o IP, limpar cache DNS e configurações do
 ![alt text](https://github.com/Alien8652/AnonyTools/blob/main/Imagens/AnonyNet.png?raw=true)
 
 ### Ocultador de Arquivos
-Oculta arquivos e pastas usando o sistema de extensões protegidas pelo Windows e os atributos(Se oculta no Linux também colocando um ponto no começo do arquivo ".oculto", mas é mais efetivo no Windows(tem suporte)), também tem a oção de compactar com senha na hora da ocultação.
+Oculta arquivos e pastas usando o sistema de extensões protegidas pelo Windows e os atributos(Se oculta no Linux também colocando um ponto no começo do arquivo ".oculto", mas é mais efetivo no Windows(tem suporte)), também tem a oção de ocultar compactado com senha.
 ![alt text](https://github.com/Alien8652/AnonyTools/blob/main/Imagens/Ocultador%20de%20Arquivos.png?raw=true)
 
 ## [ ANDROID ] (Fazendo...)
