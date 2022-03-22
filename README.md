@@ -21,5 +21,5 @@ Oculta arquivos e pastas usando o sistema de extensões protegidas pelo Windows 
 ## [ ANDROID ] (Fazendo...)
 
 
-## Gostou dos projetos?
+## Gostou do projeto?
 Manda um pix pra eu toma um cafézim 😉☕: (18) 99710-1175
