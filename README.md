@@ -19,3 +19,7 @@ Oculta arquivos e pastas usando o sistema de extensões protegidas pelo Windows 
 ![alt text](https://github.com/Alien8652/AnonyTools/blob/main/Imagens/Ocultador%20de%20Arquivos.png?raw=true)
 
 ## [ ANDROID ] (Fazendo...)
+
+
+## Gostou dos projetos?
+###Manda um pix pra eu toma um cafézim 😉☕: (18) 99710-1175
