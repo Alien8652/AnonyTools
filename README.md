@@ -22,4 +22,4 @@ Oculta arquivos e pastas usando o sistema de extensões protegidas pelo Windows 
 
 
 ## Gostou do projeto?
-Manda um pix pra eu toma um cafézim 😉☕: (18) 99710-1175
+Manda um pix pra eu toma um cafézim 😉☕: 45fff5b3-eb94-49c5-91d5-182e3b020597
